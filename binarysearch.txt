@@ -1,5 +1,3 @@
-// C++ program to implement Recursive Binary Search 
-
 #include <bits/stdc++.h> 
 using namespace std; 
   

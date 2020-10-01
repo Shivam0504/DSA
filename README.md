@@ -1,1 +1,1 @@
-# DSA Questions and Solutions
+# DSA Solutions
